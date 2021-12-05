@@ -15,7 +15,7 @@ Simpel WhatsApp Bot
 > pkg install git -y
 > pkg install nodejs -y
 > termux-setup-storage
->cd /sdcard
+> cd /sdcard
 > cd Botz1
 > bash install.sh
 > npm start
